@@ -1,0 +1,93 @@
+#me_shout{
+    background-color: #414141;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+}
+#le_team{
+    color: white;
+    padding: 5px 21px;
+    font-size: 13px;
+}
+#le_team_before{
+    color: rgb(187, 187, 187);
+    padding: 5px 21px;
+    font-size: 18px;
+}
+#le_team_2{
+    color: white;
+    padding: 5px 21px;
+    font-size: 13px;
+}
+#le_team_before_2{
+    color: rgb(187, 187, 187);
+    padding: 5px 21px;
+    font-size: 18px;
+}
+#Episode_order{
+    color: white;
+    padding: 5px 21px;
+    font-size: 13px;
+}
+#epis{
+    color: rgb(221, 208, 30);
+    padding: 5px 21px;
+    font-size: 13px;
+}
+.hide_1 {
+    display: none;
+  }
+      
+  .LD1:hover + .hide_1 {
+    display: block;
+    color: rgb(77, 247, 142);
+  }
+  .hide_2 {
+    display: none;
+  }
+      
+  .LD2:hover + .hide_2 {
+    display: block;
+    color: rgb(77, 247, 142);
+  }
+  .hide_3 {
+    display: none;
+  }
+      
+  .LD3:hover + .hide_3 {
+    display: block;
+    color: rgb(77, 247, 142);
+  }
+  .hide_4 {
+    display: none;
+  }
+      
+  .LD4:hover + .hide_4 {
+    display: block;
+    color: rgb(77, 247, 142);
+  }
+  .hide_5 {
+    display: none;
+  }
+      
+  .LD5:hover + .hide_5 {
+    display: block;
+    color: rgb(77, 247, 142);
+  }
+  .hide_6 {
+    display: none;
+  }
+      
+  .LD6:hover + .hide_6 {
+    display: block;
+    color: rgb(77, 247, 142);
+  }
+  .hide_7 {
+    display: none;
+  }
+      
+  .LD7:hover + .hide_7 {
+    display: block;
+    color: rgb(77, 247, 142);
+  }
